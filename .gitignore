@@ -11,3 +11,18 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+
+# Laravel IDE helper
+run/var
+# Laravel IDE helper
+*.meta.*
+_ide_*
+
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
