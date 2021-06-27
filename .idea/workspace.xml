@@ -2,25 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6edd34b-a666-4e6d-b71c-a26dea9e918a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ProfileController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/es/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/es/pagination.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/es/passwords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/es/validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/profile/edit-password.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/profile/edit-profile.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/role/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/comandos_roles.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/passwords/confirm.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/confirm.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/RolesPermission/Models/Permission.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/RolesPermission/Models/Permission.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/RolesPermission/Models/Role.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/RolesPermission/Models/Role.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
@@ -162,7 +148,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http/Controllers/Auth" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/RolesPermission/Models" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -198,7 +184,8 @@
       <workItem from="1623701662040" duration="3726000" />
       <workItem from="1623790344280" duration="1655000" />
       <workItem from="1624211205545" duration="141000" />
-      <workItem from="1624211391507" duration="1169000" />
+      <workItem from="1624211391507" duration="8744000" />
+      <workItem from="1624616955165" duration="6890000" />
     </task>
     <servers />
   </component>
